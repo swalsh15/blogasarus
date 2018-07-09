@@ -1,0 +1,16 @@
+
+.image {
+  height: 20%;
+  width: 12%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+}
+#intro {
+  text-align: center;
+  font-family: cursive;
+}
+#widepic {
+  width: 100%;
+}
